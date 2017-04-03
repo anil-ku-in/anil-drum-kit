@@ -2,4 +2,6 @@
 <br>
 <a href="/2">clock</a>
 <br>
-<a href="3"> 3rd</a>
+<a href="3"> css variables</a>
+<br>
+
