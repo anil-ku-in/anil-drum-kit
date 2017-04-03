@@ -1,1 +1,1 @@
-<a href="/1/index.php"> first</a>
+<a href="/1"> first</a>
